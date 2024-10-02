@@ -2,7 +2,7 @@
 
 Started 2022 my UI/UX Journey 👨‍🎨
 
-2023 I designed my fist WebApp for my Project [@Sportsgeist ](https://github.com/SportsgeistXYZ) 🤝
+2023 I designed my fist WebApp for my Project [Sportsgeist ](https://github.com/SportsgeistXYZ) 🤝
 
 Now on my own journey to be a Front-End Developer 💻
 
